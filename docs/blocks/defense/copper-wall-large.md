@@ -9,7 +9,7 @@ Spans multiple tiles."*
 | --- | --- |
 |Internal Name|`copper-wall-large`|
 |Solid|Yes|
-|Health|1280    |
+|Health|12800|
 |Size|2x2  |
 |Build Time|1  seconds  |
 |Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x24  |
